@@ -6,7 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  groceries.each {|key| key.values}
+  groceries.values
 
 
 end
