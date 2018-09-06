@@ -7,6 +7,6 @@ def second_challenge
   }
 
   groceries.each {|x| x.values}
-  
+
 
 end
