@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
- contacts['Freddy Mercury'].delete_if do |key, value| 
+ contacts['Freddy Mercury'].delete_if do |key, value|
    value = 'strawberry'
  end
 
